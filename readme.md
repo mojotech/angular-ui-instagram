@@ -1,6 +1,6 @@
 # UI-Instagram Angular JS Instagram Directive
 
-The most hipstagnular ui plugin ever:
+The most hipstangular ui plugin ever:
 
 ```
 <ui-instagram user-id='1234' client-id="ZA12VDFFDF32JZ" ></ui-instagram>
